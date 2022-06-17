@@ -7,9 +7,7 @@ Do you want to use the Quillbot premium free paraphrasing tool? But you don’t 
 
 ## Video Tutorial:
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1qgJvUM09I" title="Quillbot Premium for free 2022 | LifeTime QuillBot Premium Free" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![Quillbot Premium for Free](https://img.youtube.com/vi/S1qgJvUM09I/0.jpg)](https://www.youtube.com/watch?v=S1qgJvUM09I)
 
 >Check the link Below.
 
