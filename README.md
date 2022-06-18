@@ -7,10 +7,8 @@ Do you want to use the Quillbot premium free paraphrasing tool? But you don’t 
 
 ## Video Tutorial:
 
-<p align="center">
 [![Quillbot Premium for Free](https://img.youtube.com/vi/S1qgJvUM09I/0.jpg)](https://www.youtube.com/watch?v=S1qgJvUM09I)
-</p> 
 
 >Check the link Below.
 
-[LINK](https://github.com/blueagler/QuillBot-Premium-Crack/releases)
+[DOWNLOAD-LINK](https://github.com/blueagler/QuillBot-Premium-Crack/releases)
